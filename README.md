@@ -1,2 +1,4 @@
 # YoPersonal-
 Repositorio personal 
+  + Contiene las receta que compartimos con la Cocina de Halley
+  + Los datos Baas, Jeroen; Boyack, Kevin; Ioannidis, John P.A. (2020), “Data for "Updated science-wide author databases of standardized citation indicators"”, Mendeley Data, V2, doi: 10.17632/btchxktzyw.2  We have created a publicly available database of 100,000 top-scientists that provides standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator. Separate data are shown for career-long and single year impact. Metrics with and without self-citations and ratio of citations to citing papers are given. Scientists are classified into 22 scientific fields and 176 sub-fields. Field- and subfield-specific percentiles are also provided for all scientists who have published at least 5 papers. Career-long data are updated to end-of-2019. 
